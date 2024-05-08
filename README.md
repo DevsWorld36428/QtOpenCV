@@ -1,4 +1,4 @@
-# OpenCV and Qt on MacOS
+# OpenCV and Qt
 
 ## Introduction
 
